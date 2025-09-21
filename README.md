@@ -68,9 +68,7 @@
 </picture>
 
 <br/>
-<p  style="animation: fadein 2s;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=monkey531&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="48%" />
-</p>
+
 </div> 
 
 <img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>

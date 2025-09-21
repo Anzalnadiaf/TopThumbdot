@@ -51,7 +51,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=monkey531&show_icons=true&theme=tokyonight&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=monkey531&show_icons=true&theme=tokyonight&count_private=true" />
+ 
 </picture>
 <picture>
   <source

